@@ -1,0 +1,4 @@
+com\spicejet\tests\FlipkartTest.class
+com\vtiger\testscripts\NonStaticParallel.class
+com\vtiger\testscripts\FetchDataFromMvn.class
+com\spicejet\tests\BookflightTest.class
